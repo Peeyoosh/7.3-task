@@ -15,4 +15,8 @@ void loop() {
     Serial.println("Inactive");
   }
   delay(100);
+  /*
+   * here this is will sow active on screen 
+   *if someone enters within the range
+   */
 }
